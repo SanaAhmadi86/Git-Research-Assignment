@@ -1,0 +1,4 @@
+pull_request.txt
+A Pull Request is a request to merge your changes into another repository.
+
+It allows review and discussion before changes are accepted.
