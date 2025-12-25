@@ -1,0 +1,4 @@
+pull.txt
+Pull means downloading the latest changes from a remote repository to your local project.
+
+It helps keep your work updated with others' changes.
