@@ -1,0 +1,4 @@
+pull_vs_pull_request.txt
+Push: Sends changes from local system to GitHub
+Pull: Gets changes from GitHub to local system
+Pull Request: Requests to merge changes into the main repository
