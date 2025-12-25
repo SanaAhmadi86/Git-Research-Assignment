@@ -1,0 +1,4 @@
+clone.txt
+Clone means creating a local copy of a GitHub repository on your computer.
+
+It allows you to work on the project offline and sync changes later.
