@@ -1,0 +1,4 @@
+fork.txt
+Fork means creating a personal copy of someone else's GitHub repository on your own GitHub account.
+
+It allows you to make changes without affecting the original project.
